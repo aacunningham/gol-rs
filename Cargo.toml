@@ -1,0 +1,10 @@
+[package]
+name = "gol"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "gol"
+
+[lib]
+path = "src/lib.rs"
